@@ -1,1 +1,1 @@
-print("Hello KT! v1")
+print("Hello to KT! v2")
