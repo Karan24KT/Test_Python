@@ -1,1 +1,1 @@
-printxyz("Hello to Karan_KT! v6")
+print("Hello to Karan_KT! v7")
